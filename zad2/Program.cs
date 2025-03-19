@@ -4,14 +4,18 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace zad1
+namespace zad2
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Witaj Świecie");
+            string imie;
+            Console.Write("podaj swoje imię:");
+            imie = Console.ReadLine();
+            Console.WriteLine("witaj {0}!", imie);
             Console.ReadKey(true);
+
         }
     }
 }
