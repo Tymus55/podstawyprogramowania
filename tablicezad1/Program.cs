@@ -22,7 +22,7 @@ namespace ConsoleApp1
             Console.Write("elementy tablicy: ");
             for (i = 0; i < n; i++)
             {
-                Console.Write(tab[i] );
+                Console.Write(tab[i]);
             }
             Console.ReadKey(true);
 

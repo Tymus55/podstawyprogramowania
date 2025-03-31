@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp1
+namespace tablicezad2
 {
     class Program
     {
@@ -20,13 +20,11 @@ namespace ConsoleApp1
                 tab[i] = Convert.ToInt32(Console.ReadLine());
             }
             Console.Write("elementy tablicy: ");
-            for (i = 0; i < n; i++)
+            for (i = n-1; i>=0 ; i--)
             {
-                Console.Write(tab[i] );
+                Console.Write(tab[i]);
             }
             Console.ReadKey(true);
-
-
         }
     }
 }
