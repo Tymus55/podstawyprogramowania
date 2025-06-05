@@ -70,5 +70,10 @@ namespace picture_viewer
             else
                 pictureBox1.SizeMode = PictureBoxSizeMode.Normal;
         }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

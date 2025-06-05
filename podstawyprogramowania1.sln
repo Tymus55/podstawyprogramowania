@@ -5,6 +5,8 @@ VisualStudioVersion = 17.13.35825.156
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "picture viewer", "picture viewer\picture viewer.csproj", "{B011FC99-7A2D-43C8-800A-EBF779DC4657}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "matematyka quiz", "matematyka quiz\matematyka quiz.csproj", "{04338710-9F0E-4C96-BA65-1492FF7153E3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B011FC99-7A2D-43C8-800A-EBF779DC4657}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B011FC99-7A2D-43C8-800A-EBF779DC4657}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B011FC99-7A2D-43C8-800A-EBF779DC4657}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04338710-9F0E-4C96-BA65-1492FF7153E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04338710-9F0E-4C96-BA65-1492FF7153E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04338710-9F0E-4C96-BA65-1492FF7153E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04338710-9F0E-4C96-BA65-1492FF7153E3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
