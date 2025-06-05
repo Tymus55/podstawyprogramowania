@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "picture viewer", "picture v
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "matematyka quiz", "matematyka quiz\matematyka quiz.csproj", "{04338710-9F0E-4C96-BA65-1492FF7153E3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "memoru", "memoru\memoru.csproj", "{5F0F46A2-480C-4204-9EE3-879CE8740DC8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{04338710-9F0E-4C96-BA65-1492FF7153E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{04338710-9F0E-4C96-BA65-1492FF7153E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{04338710-9F0E-4C96-BA65-1492FF7153E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F0F46A2-480C-4204-9EE3-879CE8740DC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F0F46A2-480C-4204-9EE3-879CE8740DC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F0F46A2-480C-4204-9EE3-879CE8740DC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F0F46A2-480C-4204-9EE3-879CE8740DC8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
